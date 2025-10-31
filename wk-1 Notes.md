@@ -1,6 +1,3 @@
-Here’s the content converted into a Markdown (.md) format. You can copy and save it as a `.md` file.
-
-```markdown
 # Basic Database Concepts
 
 ## 1a. Entity
@@ -398,6 +395,3 @@ This creates: CourseID → Department (transitive through Instructor).
 - InstructorID → InstructorName, Department
 - CourseID → InstructorID
 - (StudentID, CourseID) → {} (Enrollment row has no non-key attributes in this minimal example).
-```
-
-Feel free to modify any parts as needed!
